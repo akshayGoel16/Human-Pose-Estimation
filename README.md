@@ -1,4 +1,4 @@
-# Human Pose Estimation - PoseSnapper
+# Human Pose Estimation - *PoseSnapper*
 
 This project demonstrates **real-time human pose estimation** on images using **OpenCV's DNN module** and a pre-trained TensorFlow model. The app is built with **Streamlit** to provide an interactive web interface where users can upload images and view detected body keypoints and connections.
 
